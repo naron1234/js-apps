@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+.calculator {
+    width: 400px;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(10px);
+    border-color: rgba(255, 255, 255, 0.3);
+}
+
+button {
+    height: 60px;
+    font-size: 30px !important;
+    color: #656565 !important;
+}
